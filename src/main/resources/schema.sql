@@ -1,0 +1,1 @@
+create table todo(id bigint auto_increment, name varchar(255),status varchar(1));
